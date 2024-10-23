@@ -46,4 +46,4 @@ we have:
 3. Create a folder for ChromaDB name 'chroma' and input folder location in persist directory.
 
 # Results 
-![img](Img/video2.gif)
+![img](Img/starbot.mov)
