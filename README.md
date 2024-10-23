@@ -17,4 +17,15 @@ If you have problems to install langflow please checking this link: https://docs
 # Advertisement!!!
 This chatbot is in Romanian and Russian languages to change languages changed the promt instruction.
 
-![screenshot](screenshot.png)
+# How it’s work?
+Langflow is a new, visual framework for building multi-agent and RAG applications. It is open-source, Python-powered, fully customizable, LLM and vector store agnostic.
+
+Its intuitive interface allows for easy manipulation of AI building blocks, enabling developers to quickly prototype and turn their ideas into powerful, real-world solutions.
+
+![img](Img/img1.png)
+
+This image shows the structure of the chatbot
+we have:
+1. Chat input
+2. Promise
+3. AI Model (I use groq with llama, you can use whatever you want)
