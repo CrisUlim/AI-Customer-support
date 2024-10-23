@@ -29,3 +29,14 @@ we have:
 1. Chat input
 2. Promise
 3. AI Model (I use groq with llama, you can use whatever you want)
+4. ChromaDB
+5. Cohere
+6. Chat Output 
+
+# The figure above below shows an example of how it works
+![img](Img/ezgif.com-optimize.gif)
+
+
+# How to use
+![img](Img/ezgif.com-optimize.gif)
+
