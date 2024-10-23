@@ -33,10 +33,17 @@ we have:
 5. Cohere
 6. Chat Output 
 
-# The figure above below shows an example of how it works
+# The GIF above below shows an example of how it works
 ![img](Img/ezgif.com-optimize.gif)
 
 
 # How to use
 ![img](Img/video1.gif)
 
+# Preparing 
+1. Input API key for groq and cohere.
+2. Choose files for train the model.
+3. Create a folder for ChromaDB name 'chroma' and input folder location in persist directory.
+
+# Results 
+![img](Img/video2.gif)
